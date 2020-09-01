@@ -1,0 +1,9 @@
+#wpcontent {
+    padding-left: 0px !important;
+}
+#mr_assistant_admin_iframe{
+    display: block;
+    position: relative;
+    width: 100%;
+    height: calc(100vh - 25px);
+}
